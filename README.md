@@ -8,7 +8,8 @@
 
 <p align="center">
   <strong>从碳基到硅基，你只差一个 init</strong><br/>
-  用纯文档构建可携带、会进化的 AI 身份 — 带上它，去任何 AI 平台。
+  用纯文档构建可携带、会进化的 AI 身份 — 带上它，去任何 AI 平台。<br/>
+  <sub>AgentMe — Me 是「我」，也是 Memory。</sub>
 </p>
 
 ---
