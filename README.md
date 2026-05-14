@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://img.shields.io/npm/v/agentme?color=blue&label=npm" alt="npm version" />
-  <img src="https://img.shields.io/npm/l/agentme" alt="license" />
+  <a href="./README.en.md">English</a> | 中文
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/npm/v/agentme-cli?color=blue&label=npm" alt="npm version" />
+  <img src="https://img.shields.io/npm/l/agentme-cli" alt="license" />
   <img src="https://img.shields.io/badge/platform-Cursor%20%7C%20Claude%20%7C%20Codex%20%7C%20ChatGPT-blueviolet" alt="platforms" />
 </p>
 
@@ -17,7 +21,7 @@
 ## 一句话说明白
 
 ```bash
-npx agentme init
+npx agentme-cli init
 ```
 
 你和 AI 聊了一千次，它还是不认识你。换个工具？从头再来。笔记散落在十个 app 里，收藏夹早已长满蜘蛛网。
@@ -91,7 +95,7 @@ npx agentme init
 ### 1. 安装
 
 ```bash
-npm install -g agentme
+npm install -g agentme-cli
 ```
 
 ### 2. 初始化
