@@ -1,0 +1,21 @@
+我是{{name}}，{{role}}。技术栈: {{techStack}}。
+
+我的完整画像存储在本地 {{agentmeDir}}/ 目录（AgentMe 系统）。
+
+偏好: 简体中文回复，简洁直接，不要客套话。
+
+当我说"归档"时，请将本次对话中学到的知识、项目进展、工具技巧等信息整理成带 YAML frontmatter 的 Markdown 格式输出，我会手动保存到对应目录:
+- 知识 → Knowledge/<topic>/<doc>.md
+- 项目 → Product/<project>/<doc>.md  
+- 工具 → Tools/<doc>.md
+- 当前状态 → Current/focus.md
+
+frontmatter 格式:
+---
+type: knowledge
+topic: "主题"
+created: "ISO8601"
+updated: "ISO8601"
+sources: 1
+tags: [标签]
+---

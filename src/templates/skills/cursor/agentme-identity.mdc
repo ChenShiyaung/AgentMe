@@ -1,0 +1,20 @@
+---
+description: AgentMe 用户画像
+alwaysApply: true
+---
+
+# AgentMe 用户画像
+
+## 身份摘要
+{{identitySummary}}
+
+## 当前焦点
+{{currentFocus}}
+
+## 深入了解
+如需更详细的用户信息，按需读取以下文件:
+- 人格详情: {{agentmeDir}}/Me/SOUL.md
+- 知识库索引: {{agentmeDir}}/Knowledge/_Index.md
+- 项目索引: {{agentmeDir}}/Product/_Index.md
+- 工具链: {{agentmeDir}}/Tools/_Index.md
+- 当前工作: {{agentmeDir}}/Current/_Index.md
